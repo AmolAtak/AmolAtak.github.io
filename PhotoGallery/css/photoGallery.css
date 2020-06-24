@@ -90,5 +90,5 @@ figcaption
   margin-bottom: 5px;
   padding-bottom: 5px;
   background-color: #000;
-  padding-right: 10%;
+  padding: 0 auto;
 }
